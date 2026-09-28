@@ -70,6 +70,25 @@ If an incoming ball reaches the turret, the game ends.
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Menu
+
+<img src="screenshots/Menu.jpg" width="280"/>
+
+### ⚙️ Settings
+
+<img src="screenshots/Setting.jpg" width="280"/>
+
+### 🎮 Gameplay
+
+<img src="screenshots/GamePlay.jpg" width="280"/>
+
+</div>
+
+---
 ## 🌍 Languages
 
 Neon Turret supports:
