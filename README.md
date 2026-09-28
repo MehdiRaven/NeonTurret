@@ -76,15 +76,15 @@ If an incoming ball reaches the turret, the game ends.
 
 ### 🏠 Menu
 
-<img src="ScreenShots/Menu.jpg" width="280"/>
+<img src="screenshots/Menu.jpg" width="280"/>
 
 ### ⚙️ Settings
 
-<img src="ScreenShots/Setting.jpg" width="280"/>
+<img src="screenshots/Setting.jpg" width="280"/>
 
 ### 🎮 Gameplay
 
-<img src="ScreenShots/GamePlay.jpg" width="280"/>
+<img src="screenshots/GamePlay.jpg" width="280"/>
 
 </div>
 
