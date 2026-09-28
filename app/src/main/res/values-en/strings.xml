@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Neon Turret</string>
+    <string name="game_title">CHAIN SHOOTER</string>
+    <string name="game_subtitle">NEON REACTION ARCADE</string>
+    <string name="best_score">BEST SCORE: %1$d</string>
+    <string name="play">PLAY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="paused">PAUSED</string>
+    <string name="score">SCORE: %1$d</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="final_score">FINAL SCORE</string>
+    <string name="tap_to_play_again">TAP TO PLAY AGAIN</string>
+    <string name="sound_fx">Sound FX</string>
+    <string name="haptics">Haptics</string>
+    <string name="done">DONE</string>
+    <string name="got_it">GOT IT</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="persian">Persian</string>
+
+    <string name="how_to_play_1_title">Smart Reload</string>
+    <string name="how_to_play_1_desc">Next bullet color automatically matches imminent targets closest to your turret.</string>
+    <string name="how_to_play_2_title">Chain Reaction</string>
+    <string name="how_to_play_2_desc">Same color hits trigger massive multi-target chain explosions!</string>
+    <string name="how_to_play_3_title">Universal Hit</string>
+    <string name="how_to_play_3_desc">Off-color hits still pop incoming targets for safe +5 points.</string>
+    <string name="how_to_play_4_title">Quick Swap</string>
+    <string name="how_to_play_4_desc">Tap the central turret core anytime to swap current &amp; next ammo.</string>
+
+    <string name="powerup_slow_mo">SLOW-MO: %ds</string>
+    <string name="powerup_shield_active">SHIELD ACTIVE</string>
+    <string name="powerup_double_xp">2X SCORE: %ds</string>
+</resources>

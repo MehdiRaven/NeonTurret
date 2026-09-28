@@ -1,0 +1,36 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dm
+
+# Output files
+/build
+/captures
+/release
+app/release/
+
+# IDE & Editor files
+*.iml
+.gradle
+.kotlin
+.idea/
+.DS_Store
+.externalNativeBuild
+.cxx
+
+# Local configuration & environment
+/local.properties
+local.properties
+.env
+
+# Signing keys & keystores
+*.keystore
+*.jks
+debug.keystore
+
+# Services configuration
+google-services.json
+
+# Local artifacts
+.artifacts/

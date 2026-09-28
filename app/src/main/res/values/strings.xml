@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">شلیک زنجیره‌ای</string>
+    <string name="game_title">شلیک زنجیره‌ای</string>
+    <string name="game_subtitle">آرکید واکنش نئونی</string>
+    <string name="best_score">بهترین امتیاز: %1$d</string>
+    <string name="play">شروع بازی</string>
+    <string name="settings">تنظیمات</string>
+    <string name="how_to_play">راهنما</string>
+    <string name="paused">توقف بازی</string>
+    <string name="score">امتیاز: %1$d</string>
+    <string name="resume">ادامه</string>
+    <string name="restart">شروع مجدد</string>
+    <string name="main_menu">منوی اصلی</string>
+    <string name="play_again">بازی دوباره</string>
+    <string name="game_over">پایان بازی</string>
+    <string name="final_score">امتیاز نهایی</string>
+    <string name="tap_to_play_again">برای شروع مجدد ضربه بزنید</string>
+    <string name="sound_fx">صدا</string>
+    <string name="haptics">لرزش</string>
+    <string name="done">تایید</string>
+    <string name="got_it">متوجه شدم</string>
+    <string name="on">روشن</string>
+    <string name="off">خاموش</string>
+    <string name="language">زبان</string>
+    <string name="english">انگلیسی</string>
+    <string name="persian">فارسی</string>
+
+    <string name="how_to_play_1_title">خشاب‌گذاری هوشمند</string>
+    <string name="how_to_play_1_desc">رنگ گلوله بعدی به طور خودکار با نزدیک‌ترین هدف به برجک شما مطابقت پیدا می‌کند.</string>
+    <string name="how_to_play_2_title">واکنش زنجیره‌ای</string>
+    <string name="how_to_play_2_desc">برخورد با اهداف هم‌رنگ باعث انفجارهای زنجیره‌ای عظیم می‌شود!</string>
+    <string name="how_to_play_3_title">ضربه عمومی</string>
+    <string name="how_to_play_3_desc">برخورد با رنگ‌های متفاوت هنوز هم هدف را از بین می‌برد و ۵ امتیاز دارد.</string>
+    <string name="how_to_play_4_title">تعویض سریع</string>
+    <string name="how_to_play_4_desc">در هر زمان با لمس هسته مرکزی برجک، مهمات فعلی و بعدی را تعویض کنید.</string>
+
+    <string name="powerup_slow_mo">حرکت آهسته: %d ثانیه</string>
+    <string name="powerup_shield_active">سپر فعال</string>
+    <string name="powerup_double_xp">امتیاز ۲ برابر: %d ثانیه</string>
+</resources>
